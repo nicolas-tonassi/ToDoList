@@ -7,6 +7,8 @@ Este projeto é uma aplicação web simples que permite aos usuários criar e ge
 ## Descrição
  
 O projeto foi criado como um exercício prático para implementar uma lista de verificação de atividades do dia a dia. A aplicação permite que os usuários adicionem atividades que precisam ser realizadas e as removam conforme forem concluídas. Exemplos de atividades incluem caminhar, trabalho, fazer compras, entre outras.
+
+<img src= "print.png">
  
 ## Funcionalidades
  
